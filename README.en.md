@@ -21,7 +21,7 @@
 
 A simple application in Node.js!
 
-This is an application to store projects in your portfolio, which will allow you to create, list, update and remove projects.
+This is an application to storage projects of your portfolio, that will allow you to create, to list, update and remove projects.
 
 ### Application Routes
 
