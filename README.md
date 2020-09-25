@@ -21,7 +21,7 @@
 
 Uma simples aplicação em Node.js!
 
-Essa é uma aplicação para armazenar projetos do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos projetos.
+Essa é uma aplicação para armazenar projetos do seu portfólio, que permite a criação, listagem, atualização e remoção dos projetos.
 
 ### Rotas da aplicação
 
