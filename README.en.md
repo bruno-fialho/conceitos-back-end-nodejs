@@ -10,14 +10,14 @@
 </h3>
 
 <p align="center">
-  <a href="#🚀-about-the-application">About the application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💿-installed-packages">Installed packages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#📝-licence">Licence</a>
+  <a href="#rocket-about-the-application">About the application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#cd-installed-packages">Installed packages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licence">Licence</a>
 </p>
 
 <img alt="Insomnia" src=./src/assets/screen-insomnia.gif />
 
-## 🚀 About the application
+## :rocket: About the application
 
 A simple application in Node.js!
 
@@ -35,7 +35,7 @@ In the index.js file:
 
 - **`DELETE /projects/:id`**: The route must delete a project with the `id` present in the route parameters;
 
-## 💿 Installed packages
+## :cd: Installed packages
 
 The following is a list of installed packages:
 
@@ -43,6 +43,6 @@ The following is a list of installed packages:
 - [nodemon](https://www.npmjs.com/package/nodemon)
 - [uuid](https://www.npmjs.com/package/uuid)
 
-## 📝 Licence
+## :memo: Licence
 
 This project is under license from MIT. See the archive [LICENSE](LICENSE) to more details.

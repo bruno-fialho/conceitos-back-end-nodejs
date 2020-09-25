@@ -10,14 +10,14 @@
 </h3>
 
 <p align="center">
-  <a href="#🚀-sobre-a-aplicação">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💿-pacotes-instalados">Pacotes instalados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#📝-licença">Licença</a>
+  <a href="#rocket-sobre-a-aplicação">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#cd-pacotes-instalados">Pacotes instalados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <img alt="Insomnia" src=./src/assets/screen-insomnia.gif />
 
-## 🚀 Sobre a aplicação
+## :rocket: Sobre a aplicação
 
 Uma simples aplicação em Node.js!
 
@@ -35,7 +35,7 @@ No arquivo index.js:
 
 - **`DELETE /projects/:id`**: A rota deve deletar o projeto com o `id` presente nos parâmetros da rota;
 
-## 💿 Pacotes instalados
+## :cd: Pacotes instalados
 
 A seguir segue uma lista dos pacotes instalados:
 
@@ -43,6 +43,6 @@ A seguir segue uma lista dos pacotes instalados:
 - [nodemon](https://www.npmjs.com/package/nodemon)
 - [uuid](https://www.npmjs.com/package/uuid)
 
-## 📝 Licença
+## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
