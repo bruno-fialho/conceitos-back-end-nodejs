@@ -35,13 +35,13 @@ In the index.js file:
 
 - **`DELETE /projects/:id`**: The route must delete a project with the `id` present in the route parameters;
 
-## 💿 Required packages
+## 💿 Installed packages
 
-The following is a list of the packages needed for the application (Using [yarn](https://yarnpkg.com/)):
+The following is a list of installed packages:
 
-- yarn add [express](https://www.npmjs.com/package/express)
-- yarn add [nodemon](https://www.npmjs.com/package/nodemon) -D
-- yarn add [uuid](https://www.npmjs.com/package/uuid)
+- [express](https://www.npmjs.com/package/express)
+- [nodemon](https://www.npmjs.com/package/nodemon)
+- [uuid](https://www.npmjs.com/package/uuid)
 
 ## 📝 Licence
 

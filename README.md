@@ -35,13 +35,13 @@ No arquivo index.js:
 
 - **`DELETE /projects/:id`**: A rota deve deletar o projeto com o `id` presente nos parâmetros da rota;
 
-## 💿 Pacotes requiridos
+## 💿 Pacotes instalados
 
-A seguir segue uma lista dos pacotes necessários para a aplicação (Usando [yarn](https://yarnpkg.com/)):
+A seguir segue uma lista dos pacotes instalados:
 
-- yarn add [express](https://www.npmjs.com/package/express)
-- yarn add [nodemon](https://www.npmjs.com/package/nodemon) -D
-- yarn add [uuid](https://www.npmjs.com/package/uuid)
+- [express](https://www.npmjs.com/package/express)
+- [nodemon](https://www.npmjs.com/package/nodemon)
+- [uuid](https://www.npmjs.com/package/uuid)
 
 ## 📝 Licença
 
